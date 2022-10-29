@@ -2,7 +2,7 @@
 
 ## I'm a beginner but a very motivated QA Engeneer and Software Engeneer
 
-## I'm also a positive-minded person with good communication skills. And I have qualities such as resistance to stress, multitasking, a passion for learning new technologies, and improving my skills.
+### I'm also a positive-minded person with good communication skills. And I have qualities such as resistance to stress, multitasking, a passion for learning new technologies, and improving my skills.
 
 Some project
 
@@ -14,5 +14,6 @@ Some project
 ![Jira](https://img.shields.io/badge/-jira-black?style=for-the-badge&logo=jira&logoColor=097CDB)
 ![Postman](https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL)
+![SoapUI](https://img.shields.io/badge/-SoapUI-black?style=for-the-badge&logo=SoapUI)
 
 Social
