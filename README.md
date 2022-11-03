@@ -16,7 +16,12 @@ Some project
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL)
 ![SoapUI](https://img.shields.io/badge/-SoapUI-black?style=for-the-badge&logo=SoapUI)
 
-Social
+#### Social
+
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/Mitrofin)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/artem-mytrofanov/)
+[![Facebook](https://img.shields.io/badge/-facebook-black?style=for-the-badge&logo=Facebook)](https://www.facebook.com/MytrofanovArtem)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/artemmytrofanov/)
 
 #### Stats
 
