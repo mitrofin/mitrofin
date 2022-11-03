@@ -17,3 +17,7 @@ Some project
 ![SoapUI](https://img.shields.io/badge/-SoapUI-black?style=for-the-badge&logo=SoapUI)
 
 Social
+
+#### Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitrofin&show_icons=true&theme=tokyonight&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
