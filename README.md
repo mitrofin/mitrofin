@@ -10,21 +10,24 @@
 
 ### Testing Documentation
 
-- [Checklists]
+- [Checklists](https://drive.google.com/file/d/1_umegg5e9ZQ9U8aePypYQqvQND9GXwZg/view?usp=sharing)
 - [Test-Suites and Test-Cases]
 - [Bug-Reports]
 - [SQL Queries]
 - [Postman Collections]
 
-### Languages and Tools
+### Tools
 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript)
 ![TestRail](https://img.shields.io/badge/-TestRail-black?style=for-the-badge&logo=TestRail)
 ![Jira](https://img.shields.io/badge/-jira-black?style=for-the-badge&logo=jira&logoColor=097CDB)
 ![Postman](https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL)
 ![SoapUI](https://img.shields.io/badge/-SoapUI-black?style=for-the-badge&logo=SoapUI)
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript)
 
 #### Social
 
