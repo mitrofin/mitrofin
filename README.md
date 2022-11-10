@@ -24,10 +24,13 @@
 ![Postman](https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL)
 ![SoapUI](https://img.shields.io/badge/-SoapUI-black?style=for-the-badge&logo=SoapUI)
+![Pict](https://img.shields.io/badge/-Pict-black?style=for-the-badge&logo=Pict)
+![DBeaver](https://img.shields.io/badge/-DBeaver-black?style=for-the-badge&logo=DBeaver)
 
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React)
 
 #### Social
 
