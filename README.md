@@ -15,6 +15,8 @@
 - [Bug-Reports]
 - [SQL Queries]
 - [Postman Collections]
+- [JSON & XML]
+- [Flow chart]
 
 ### Tools
 
@@ -27,7 +29,7 @@
 ![Pict](https://img.shields.io/badge/-Pict-black?style=for-the-badge&logo=Pict)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-black?style=for-the-badge&logo=DBeaver)
 
-### Languages
+### Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React)
@@ -38,6 +40,14 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/artem-mytrofanov/)
 [![Facebook](https://img.shields.io/badge/-facebook-black?style=for-the-badge&logo=Facebook)](https://www.facebook.com/MytrofanovArtem)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/artemmytrofanov/)
+
+### Languages
+
+Ukrainian - native
+
+English - pre-intermediate
+
+Russian - native
 
 #### Stats
 
