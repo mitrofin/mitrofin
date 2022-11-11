@@ -16,7 +16,7 @@
 - [SQL Queries]
 - [Postman Collections]
 - [JSON & XML]
-- [Flow chart]
+- [Flow chart](https://github.com/mitrofin/Testing-documentation/commit/ef8cddc6257e7e9d7d09069bd774cfe666c9bc78)
 
 ### Tools
 
@@ -27,12 +27,14 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL)
 ![SoapUI](https://img.shields.io/badge/-SoapUI-black?style=for-the-badge&logo=SoapUI)
 ![Pict](https://img.shields.io/badge/-Pict-black?style=for-the-badge&logo=Pict)
-![DBeaver](https://img.shields.io/badge/-DBeaver-black?style=for-the-badge&logo=DBeaver)
+![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML)
+![Css](https://img.shields.io/badge/-Css-black?style=for-the-badge&logo=Css)
 
 ### Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js)
 
 #### Social
 
