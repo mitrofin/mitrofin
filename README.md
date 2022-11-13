@@ -2,7 +2,7 @@
 
 ## I'm a beginner but a very motivated QA Engeneer and Software Engeneer
 
-### I'm also a positive-minded person with good communication skills. And I have qualities such as resistance to stress, multitasking, a passion for learning new technologies, and improving my skills.
+### I'm also a positive-minded person with good communication skills. I'm punctual, responsible and result oriented. I also have such qualities as stress resistance, multitasking, I'm always looking for opportunities to learn new technologies and improve my skills.
 
 ## [My CV](https://drive.google.com/file/d/1_umegg5e9ZQ9U8aePypYQqvQND9GXwZg/view?usp=sharing)
 
