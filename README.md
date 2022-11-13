@@ -16,7 +16,7 @@
 - [SQL Queries]
 - [Postman Collections]
 - [JSON & XML]
-- [Flow chart](https://github.com/mitrofin/Testing-documentation/commit/ef8cddc6257e7e9d7d09069bd774cfe666c9bc78)
+- [Flow chart](https://github.com/mitrofin/Testing-documentation/commit/d20fc66a715bb2fe404bb20e7ae935141afaa4ab)
 
 ### Tools
 
