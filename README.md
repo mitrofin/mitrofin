@@ -4,7 +4,7 @@
 
 ### I'm also a positive-minded person with good communication skills. I'm punctual, responsible and result oriented. I also have such qualities as stress resistance, multitasking, I'm always looking for opportunities to learn new technologies and improve my skills.
 
-## [My CV](https://drive.google.com/drive/folders/1enEHGIFb_hg4CyqLA08AicS2cVZ03UmA)
+## [My CV](https://drive.google.com/file/d/13ayvySlPoL8S1Z1MeCM0Jx0mvprjZNxi/view?usp=sharing)
 
 ### Some project
 
