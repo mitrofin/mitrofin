@@ -14,9 +14,9 @@
 - [Test-Suites and Test-Cases]
 - [Bug-Reports]
 - [Use Cases](https://docs.google.com/document/d/1Lpr0M7IrLo925YISNkvp1Sd7lsYS31SFjqT9CbuMlLg/edit?usp=sharing)
-- [Check Lists](https://docs.google.com/document/d/1HpXIvFzeKTO1ShT7ElUHmSYqbFsbaTsY2X336T62YfA/edit?usp=sharing)
+- [Checklists](https://docs.google.com/document/d/1HpXIvFzeKTO1ShT7ElUHmSYqbFsbaTsY2X336T62YfA/edit?usp=sharing)
 - [SQL Queries]
-- [Postman Collections]
+- [Postman Collections](https://github.com/mitrofin/Testing-documentation/commit/284f56059cc7b0cc471319603268a5abf5ad032c)
 - [JSON & XML]
 - [Flow chart](https://github.com/mitrofin/Testing-documentation/commit/d20fc66a715bb2fe404bb20e7ae935141afaa4ab)
 
