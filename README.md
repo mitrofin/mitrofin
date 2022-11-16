@@ -13,6 +13,8 @@
 - [Checklists](https://drive.google.com/file/d/1_umegg5e9ZQ9U8aePypYQqvQND9GXwZg/view?usp=sharing)
 - [Test-Suites and Test-Cases]
 - [Bug-Reports]
+- [Use Cases](https://docs.google.com/document/d/1Lpr0M7IrLo925YISNkvp1Sd7lsYS31SFjqT9CbuMlLg/edit?usp=sharing)
+- [Check Lists](https://docs.google.com/document/d/1HpXIvFzeKTO1ShT7ElUHmSYqbFsbaTsY2X336T62YfA/edit?usp=sharing)
 - [SQL Queries]
 - [Postman Collections]
 - [JSON & XML]
@@ -25,6 +27,8 @@
 ![Jira](https://img.shields.io/badge/-jira-black?style=for-the-badge&logo=jira&logoColor=097CDB)
 ![Postman](https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL)
+![VS Code](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=VisualStudioCode&logoColor=097CDB)
+![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma)
 ![SoapUI](https://img.shields.io/badge/-SoapUI-black?style=for-the-badge&logo=SoapUI)
 ![Pict](https://img.shields.io/badge/-Pict-black?style=for-the-badge&logo=Pict)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML)
