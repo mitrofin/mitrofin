@@ -4,19 +4,19 @@
 
 ### I'm also a positive-minded person with good communication skills. I'm punctual, responsible and result oriented. I also have such qualities as stress resistance, multitasking, I'm always looking for opportunities to learn new technologies and improve my skills.
 
-## [**My CV**](https://drive.google.com/file/d/13ayvySlPoL8S1Z1MeCM0Jx0mvprjZNxi/view?usp=sharing&logoColor=004582)
+## [**My CV**](https://drive.google.com/file/d/13ayvySlPoL8S1Z1MeCM0Jx0mvprjZNxi/view?usp=sharing&logoColor=004582) :scroll:
 
 ### Some project
 
 ### Testing Documentation
 
-- [ ] [Test-Suites and Test-Cases]
-- [ ] [Bug-Reports]
-- [ ] [Use Cases](https://docs.google.com/document/d/1Lpr0M7IrLo925YISNkvp1Sd7lsYS31SFjqT9CbuMlLg/edit?usp=sharing)
+- [Test-Suites and Test-Cases]
+- [Bug-Reports]
+- [Use Cases](https://docs.google.com/document/d/1Lpr0M7IrLo925YISNkvp1Sd7lsYS31SFjqT9CbuMlLg/edit?usp=sharing)
 - [Checklists](https://docs.google.com/document/d/1HpXIvFzeKTO1ShT7ElUHmSYqbFsbaTsY2X336T62YfA/edit?usp=sharing)
 - [SQL Queries](https://github.com/mitrofin/Testing-documentation/commit/94141c27b70b3632fc40622cdf419946ce39d7f7)
 - [Postman Collections](https://github.com/mitrofin/Testing-documentation/commit/284f56059cc7b0cc471319603268a5abf5ad032c)
-- [ ] [JSON & XML](https://github.com/mitrofin/Testing-documentation/commit/a372ee1c8ded8669b852cb92ba7e15c78dbdd9ac)
+- [JSON & XML](https://github.com/mitrofin/Testing-documentation/commit/a372ee1c8ded8669b852cb92ba7e15c78dbdd9ac)
 - [Flow chart](https://github.com/mitrofin/Testing-documentation/commit/d20fc66a715bb2fe404bb20e7ae935141afaa4ab)
 
 ### Tools
@@ -39,7 +39,7 @@
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js)
 
-#### Social
+#### Social :writing_hand:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/Mitrofin)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/artem-mytrofanov/)
