@@ -6,9 +6,9 @@
 
 ## [**My CV**](https://drive.google.com/file/d/13ayvySlPoL8S1Z1MeCM0Jx0mvprjZNxi/view?usp=sharing&logoColor=004582) :scroll:
 
-### Some project
+### Some project :computer:
 
-### Testing Documentation
+### Testing Documentation :book:
 
 - [Test-Suites and Test-Cases]
 - [Bug-Reports]
@@ -19,7 +19,7 @@
 - [JSON & XML](https://github.com/mitrofin/Testing-documentation/commit/a372ee1c8ded8669b852cb92ba7e15c78dbdd9ac)
 - [Flow chart](https://github.com/mitrofin/Testing-documentation/commit/d20fc66a715bb2fe404bb20e7ae935141afaa4ab)
 
-### Tools
+### Tools :toolbox:
 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
 ![TestRail](https://img.shields.io/badge/-TestRail-black?style=for-the-badge&logo=TestRail)
@@ -33,13 +33,13 @@
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML)
 ![Css](https://img.shields.io/badge/-Css-black?style=for-the-badge&logo=Css)
 
-### Programming Languages
+### Programming Languages :gear:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js)
 
-#### Social :writing_hand:
+### Social :writing_hand:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/Mitrofin)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/artem-mytrofanov/)
@@ -48,9 +48,9 @@
 
 ### Languages
 
-Ukrainian - native
+Ukrainian - native :ukraine:
 
-English - pre-intermediate
+English - pre-intermediate :uk:
 
 Russian - native
 
