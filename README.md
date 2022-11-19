@@ -58,11 +58,11 @@
 
 ### Languages
 
-Ukrainian - native :ukraine:
+### Ukrainian - native :ukraine:
 
-English - pre-intermediate :uk:
+### English - pre-intermediate :uk:
 
-Russian - native
+### Russian - native
 
 #### Stats
 
