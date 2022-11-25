@@ -1,6 +1,6 @@
 [![Header](<https://github.com/mitrofin/mitrofin/blob/main/assets/%D0%B0%D0%B2%D0%B0%D1%82%D0%B0%D1%802%20(1).jpg>)](https://github.com/mitrofin)
 
-### I'm a beginner but a very motivated QA Engeneer and Software Engeneer. I'm also a positive-minded person with good communication skills. I'm punctual, responsible and result oriented. I also have such qualities as stress resistance, multitasking, I'm always looking for opportunities to learn new technologies and improve my skills.
+### I'm a beginner but a very motivated QA Engineer. I'm also a positive-minded person with good communication skills. I'm punctual, responsible and result oriented. I'm always looking for opportunities to learn new technologies and improve my skills.
 
 ## [**My CV**](https://drive.google.com/file/d/13ayvySlPoL8S1Z1MeCM0Jx0mvprjZNxi/view?usp=sharing&logoColor=004582) :scroll:
 
@@ -9,7 +9,7 @@
 - [Test-Suites and Test-Cases](https://github.com/mitrofin/Testing-documentation/commit/1085df153aa6970e45a6605af5188d985180c4b2)
 - [Bug-Reports](https://github.com/mitrofin/Testing-documentation/commit/c769de82fb97ba113d1825ef57b8bae5703e79ea)
 - [Use Cases](https://docs.google.com/document/d/1Lpr0M7IrLo925YISNkvp1Sd7lsYS31SFjqT9CbuMlLg/edit?usp=sharing)
-- [Checklists](https://docs.google.com/document/d/1HpXIvFzeKTO1ShT7ElUHmSYqbFsbaTsY2X336T62YfA/edit?usp=sharing)
+- [Checklists](https://docs.google.com/document/d/1aegRnzTZD0Svpa8I0CEXA11PD7-7NwQF6iW6_GFbrnQ/edit?usp=sharing)
 - [SQL Queries](https://github.com/mitrofin/Testing-documentation/commit/94141c27b70b3632fc40622cdf419946ce39d7f7)
 - [Postman Collections](https://github.com/mitrofin/Testing-documentation/commit/284f56059cc7b0cc471319603268a5abf5ad032c)
 - [JSON & XML](https://github.com/mitrofin/Testing-documentation/commit/a372ee1c8ded8669b852cb92ba7e15c78dbdd9ac)
