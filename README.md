@@ -6,7 +6,7 @@
 
 ### Testing Documentation :book:
 
-- [Test-Suites and Test-Cases](https://github.com/mitrofin/Testing-documentation/commit/1085df153aa6970e45a6605af5188d985180c4b2)
+- [Test-Suites and Test-Cases](https://github.com/mitrofin/Testing-documentation/tree/main/Test-Suites%20and%20Test-Cases)
 - [Bug-Reports](https://github.com/mitrofin/Testing-documentation/commit/c769de82fb97ba113d1825ef57b8bae5703e79ea)
 - [Use Cases](https://docs.google.com/document/d/1Lpr0M7IrLo925YISNkvp1Sd7lsYS31SFjqT9CbuMlLg/edit?usp=sharing)
 - [Checklists](https://docs.google.com/document/d/1aegRnzTZD0Svpa8I0CEXA11PD7-7NwQF6iW6_GFbrnQ/edit?usp=sharing)
