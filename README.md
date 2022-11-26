@@ -2,7 +2,7 @@
 
 ### I'm a beginner but a very motivated QA Engineer. I'm also a positive-minded person with good communication skills. I'm punctual, responsible and result oriented. I'm always looking for opportunities to learn new technologies and improve my skills.
 
-## [**My CV**](https://drive.google.com/file/d/13ayvySlPoL8S1Z1MeCM0Jx0mvprjZNxi/view?usp=sharing&logoColor=004582) :scroll:
+## [**My CV**](https://drive.google.com/file/d/10SuinukJ3rgvBvRCSjNw4PwPpkvkGpTG/view?usp=sharing) :scroll:
 
 ### Testing Documentation :book:
 
