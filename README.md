@@ -25,6 +25,7 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=VisualStudioCode&logoColor=097CDB)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma)
 ![SoapUI](https://img.shields.io/badge/-SoapUI-black?style=for-the-badge&logo=SoapUI)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=MongoDB)
 ![Pict](https://img.shields.io/badge/-Pict-black?style=for-the-badge&logo=Pict)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML)
 ![Css](https://img.shields.io/badge/-Css-black?style=for-the-badge&logo=Css)
