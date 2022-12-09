@@ -2,7 +2,7 @@
 
 ### I am a highly motivated QA Engineer and open to more deeply exploring this profession. I have a fronted educational background, know methodologies and principles of testing and have an understanding of client-service architecture. I’m also familiar with basic knowledge of SQL which allows me to write simple queries. I consider myself progressive, to be a hard-working and team-oriented person. I can focus on the task and structure my work schedule. I’m open to new challenges, looking for opportunities to learn new technologies and improve my skills
 
-## [**My CV**](https://drive.google.com/file/d/1rRo_ICbNL_SE5vk3J7vqoCIZfaYiWAlk/view?usp=sharing) :scroll:
+## [**My CV**](https://drive.google.com/file/d/1a2Kr5Jd5S0wsGuZqyzAJhc921fopdBbM/view?usp=sharing) :scroll:
 
 ### Testing Documentation :book:
 
@@ -21,6 +21,7 @@
 ![TestRail](https://img.shields.io/badge/-TestRail-black?style=for-the-badge&logo=TestRail)
 ![Jira](https://img.shields.io/badge/-jira-black?style=for-the-badge&logo=jira&logoColor=097CDB)
 ![Postman](https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman)
+![swagger](https://img.shields.io/badge/-swagger-black?style=for-the-badge&logo=swagger)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL)
 ![VS Code](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=VisualStudioCode&logoColor=097CDB)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma)
