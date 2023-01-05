@@ -22,6 +22,7 @@
 ![Jira](https://img.shields.io/badge/-jira-black?style=for-the-badge&logo=jira&logoColor=097CDB)
 ![Postman](https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman)
 ![swagger](https://img.shields.io/badge/-swagger-black?style=for-the-badge&logo=swagger)
+![JMeter](https://img.shields.io/badge/-JMeter-black?style=for-the-badge&logo=JMeter)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL)
 ![VS Code](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=VisualStudioCode&logoColor=097CDB)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma)
