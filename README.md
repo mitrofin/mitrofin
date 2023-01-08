@@ -20,6 +20,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
 ![TestRail](https://img.shields.io/badge/-TestRail-black?style=for-the-badge&logo=TestRail)
 ![Jira](https://img.shields.io/badge/-jira-black?style=for-the-badge&logo=jira&logoColor=097CDB)
+![Confluence](https://img.shields.io/badge/-Confluence-black?style=for-the-badge&logo=Confluence&logoColor=097CDB)
 ![Postman](https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman)
 ![swagger](https://img.shields.io/badge/-swagger-black?style=for-the-badge&logo=swagger)
 ![JMeter](https://img.shields.io/badge/-JMeter-black?style=for-the-badge&logo=JMeter)
