@@ -2,7 +2,7 @@
 
 ### I am a highly motivated QA Engineer and open to more deeply exploring this profession. I have a fronted educational background, know methodologies and principles of testing and have an understanding of client-service architecture. I’m also familiar with basic knowledge of SQL which allows me to write simple queries. I consider myself progressive, to be a hard-working and team-oriented person. I can focus on the task and structure my work schedule. I’m open to new challenges, looking for opportunities to learn new technologies and improve my skills
 
-## [**My CV**](https://drive.google.com/file/d/1FVOHqpDDhoWDliVc-vnKaB_tAEt83s5g/view?usp=sharing) :scroll:
+## [**My CV**](https://drive.google.com/file/d/1vwf8TTMZ3a25TcRbOVZPiNIG5fNK0PQw/view?usp=sharing) :scroll:
 
 ### Testing Documentation :book:
 
@@ -32,6 +32,7 @@
 ![Pict](https://img.shields.io/badge/-Pict-black?style=for-the-badge&logo=Pict)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML)
 ![Css](https://img.shields.io/badge/-Css-black?style=for-the-badge&logo=Css)
+![DBeaver](https://img.shields.io/badge/-DBeaver-black?style=for-the-badge&logo=Dbeaver)
 
 ### Programming Languages :gear:
 
@@ -64,7 +65,7 @@
 
 ### _Ukrainian - native_ :ukraine:
 
-### _English - pre-intermediate_ :uk:
+### _English - intermediate_ :uk:
 
 ### _Russian - native_
 
