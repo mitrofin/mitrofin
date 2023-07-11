@@ -6,19 +6,19 @@
 
 ## Work Experience :gear:
 
-### _Quality assurance engineer_ **\_\_\_\_**"SoftRyzen"
+## _Quality assurance engineer_ **\_\_\_\_**"SoftRyzen"
 
-### - Testing at all stages of product development (requirements testing, design testing, API testing, GUI, functional, usability, performance, interoperability, security, accessibility, configuration, regression testing);
+### - _Testing at all stages of product development (requirements testing, design testing, API testing, GUI, functional, usability, performance, interoperability, security, accessibility, configuration, regression testing_);
 
-### - Creation of test documentation;
+### - _Creation of test documentation_;
 
-### - Verification of integration with the CRM system(ZOHO);
+### - _Verification of integration with the CRM system(ZOHO)_;
 
-### - Collaborating with management and dev/design teams to prevent failures in the early stages of development to increase the quality of the product;
+### - _Collaborating with management and dev/design teams to prevent failures in the early stages of development to increase the quality of the product_;
 
-### - Conducting interviews with candidates, сreation of a test web application, verification of test documentation;
+### - _Conducting interviews with candidates, сreation of a test web application, verification of test documentation_;
 
-### - Experience with relational databases and remote device management;
+### - _Experience with relational databases and remote device management_;
 
 ---
 
