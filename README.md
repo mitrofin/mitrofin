@@ -8,17 +8,17 @@
 
 ### _Quality assurance engineer_ **\_\_\_\_**"SoftRyzen"
 
-#### - Testing at all stages of product development (requirements testing, design testing, API testing, GUI, functional, usability, performance, interoperability, security, accessibility, configuration, regression testing);
+### - Testing at all stages of product development (requirements testing, design testing, API testing, GUI, functional, usability, performance, interoperability, security, accessibility, configuration, regression testing);
 
-#### - Creation of test documentation;
+### - Creation of test documentation;
 
-#### - Verification of integration with the CRM system(ZOHO);
+### - Verification of integration with the CRM system(ZOHO);
 
-#### - Collaborating with management and dev/design teams to prevent failures in the early stages of development to increase the quality of the product;
+### - Collaborating with management and dev/design teams to prevent failures in the early stages of development to increase the quality of the product;
 
-#### - Conducting interviews with candidates, сreation of a test web application, verification of test documentation;
+### - Conducting interviews with candidates, сreation of a test web application, verification of test documentation;
 
-#### - Experience with relational databases and remote device management;
+### - Experience with relational databases and remote device management;
 
 ---
 
