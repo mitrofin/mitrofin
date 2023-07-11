@@ -4,7 +4,7 @@
 
 ## [**My CV**](https://drive.google.com/file/d/1GEcpqV8s78ErS4zgu0MzR_sjGueR7ac0/view?usp=sharing) :scroll:
 
-## Work Experience
+## Work Experience :gear:
 
 ### _Quality assurance engineer_ **\_\_\_\_**"SoftRyzen"
 
@@ -53,7 +53,7 @@
 ![DBeaver](https://img.shields.io/badge/-DBeaver-black?style=for-the-badge&logo=Dbeaver)
 ![TeamViewer](https://img.shields.io/badge/-TeamViewer-black?style=for-the-badge&logo=TeamViewer&logoColor=097CDB)
 
-### Programming Languages :gear:
+### Programming Languages :mortar_board:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React)
