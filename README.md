@@ -1,24 +1,24 @@
 [![Header](<https://github.com/mitrofin/mitrofin/blob/main/assets/%D0%B0%D0%B2%D0%B0%D1%82%D0%B0%D1%802%20(1).jpg>)](https://github.com/mitrofin)
 
-### I am a highly motivated QA Engineer and open to deeply exploring this profession. I have a fronted educational background, know methodologies and principles of testing and have an understanding of client-service architecture. I’m also familiar with basic knowledge of SQL which allows me to write simple queries. I consider myself progressive, to be a hard-working and team-oriented person. I can focus on the task and structure my work schedule. I’m open to new challenges, looking for opportunities to learn new technologies and improve my skills
+#### I am a highly motivated QA Engineer and open to deeply exploring this profession. I have a fronted educational background, know methodologies and principles of testing and have an understanding of client-service architecture. I’m also familiar with basic knowledge of SQL which allows me to write simple queries. I consider myself progressive, to be a hard-working and team-oriented person. I can focus on the task and structure my work schedule. I’m open to new challenges, looking for opportunities to learn new technologies and improve my skills
 
 ## [**My CV**](https://drive.google.com/file/d/1GEcpqV8s78ErS4zgu0MzR_sjGueR7ac0/view?usp=sharing) :scroll:
 
-## Work Experience :gear:
+### Work Experience :gear:
 
-## _Quality assurance engineer_ **\_\_\_\_**"SoftRyzen"
+### _Quality assurance engineer_ **\_\_\_\_**"SoftRyzen"
 
-### - _Testing at all stages of product development (requirements testing, design testing, API testing, GUI, functional, usability, performance, interoperability, security, accessibility, configuration, regression testing_);
+- _Testing at all stages of product development (requirements testing, design testing, API testing, GUI, functional, usability, performance, interoperability, security, accessibility, configuration, regression testing_);
 
-### - _Creation of test documentation_;
+- _Creation of test documentation_;
 
-### - _Verification of integration with the CRM system(ZOHO)_;
+- _Verification of integration with the CRM system(ZOHO)_;
 
-### - _Collaborating with management and dev/design teams to prevent failures in the early stages of development to increase the quality of the product_;
+- _Collaborating with management and dev/design teams to prevent failures in the early stages of development to increase the quality of the product_;
 
-### - _Conducting interviews with candidates, сreation of a test web application, verification of test documentation_;
+- _Conducting interviews with candidates, сreation of a test web application, verification of test documentation_;
 
-### - _Experience with relational databases and remote device management_;
+- _Experience with relational databases and remote device management_;
 
 ---
 
@@ -68,17 +68,17 @@
 
 ### Some project :computer:
 
-### [**Phonebook**](https://phonebook-use-hooks.netlify.app/)
+#### [**Phonebook**](https://phonebook-use-hooks.netlify.app/)
 
-### - Worked with React, Redux, Routing, Loggining, Registration, Rest API.
+#### - Worked with React, Redux, Routing, Loggining, Registration, Rest API.
 
-### [**Video library**](https://mitrofin-movie-api.netlify.app/)
+#### [**Video library**](https://mitrofin-movie-api.netlify.app/)
 
-### - Worked with React, Routing, Navigation, Rest API.
+#### - Worked with React, Routing, Navigation, Rest API.
 
-### [**Event-booster**](https://dmitriy-nikolaiev.github.io/goit-event-booster-project/)
+#### [**Event-booster**](https://dmitriy-nikolaiev.github.io/goit-event-booster-project/)
 
-### - Worked with JavaScript, Registration, Loggining, Rest API.
+#### - Worked with JavaScript, Registration, Loggining, Rest API.
 
 ### Languages
 
