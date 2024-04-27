@@ -2,13 +2,13 @@
 
 #### I am a motivated QA Engineer and am open to exploring this profession deeply. I have a fronted educational background, know methodologies and principles of testing, and have an understanding of client-service architecture. I’m also familiar with basic SQL knowledge, allowing me to write simple queries. I consider myself a progressive, hard-working, and team-oriented person. I can focus on the task and structure my work schedule. I’m open to new challenges, looking for opportunities to learn new technologies and improve my skills
 
-## [**My CV**](https://drive.google.com/file/d/18V4U3psaMqrbIXShy5O16EXZM5tklyEF/view?usp=sharing) :scroll:
+## [**My CV**](https://drive.google.com/file/d/10PwinZ4hk-EdJ1F4naP-VhAVSmZ8GRR9/view?usp=sharing) :scroll:
 
 ### Work Experience :gear:
 
 ### _Quality assurance engineer_ **\_\_\_\_**"SoftRyzen"
 
-- _Testing at all stages of product development (requirements testing, design testing, API testing, GUI, functional, usability, performance, interoperability, security, accessibility, configuration, regression testing_);
+- _Testing at all stages of product development. Requirements testing, design testing, API testing, GUI, functional, usability, performance, interoperability, security, accessibility, configuration, regression testing_;
 
 - _Creation of test documentation_;
 
