@@ -1,6 +1,6 @@
 [![Header](<https://github.com/mitrofin/mitrofin/blob/main/assets/%D0%B0%D0%B2%D0%B0%D1%82%D0%B0%D1%802%20(1).jpg>)](https://github.com/mitrofin)
 
-#### I am a motivated QA Engineer and am open to exploring this profession deeply. I have a fronted educational background, know methodologies and principles of testing, and have an understanding of client-service architecture. I’m also familiar with basic SQL knowledge, allowing me to write simple queries. I consider myself a progressive, hard-working, and team-oriented person. I can focus on the task and structure my work schedule. I’m open to new challenges, looking for opportunities to learn new technologies and improve my skills
+#### I'm a motivated QA Engineer and open to exploring this profession deeply. I have a frontend educational background, know methodologies and principles of testing, and have an understanding of client-server architecture. I’m also familiar with basic SQL knowledge, allowing me to write simple queries. I consider myself a progressive, hard-working, and team-oriented person. I can focus on the task and structure my work schedule. I’m open to new challenges, looking for opportunities to learn new technologies and improve my skills
 
 ## [**My CV**](https://drive.google.com/file/d/10PwinZ4hk-EdJ1F4naP-VhAVSmZ8GRR9/view?usp=sharing) :scroll:
 
