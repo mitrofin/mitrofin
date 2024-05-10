@@ -1,6 +1,15 @@
 [![Header](<https://github.com/mitrofin/mitrofin/blob/main/assets/%D0%B0%D0%B2%D0%B0%D1%82%D0%B0%D1%802%20(1).jpg>)](https://github.com/mitrofin)
 
-#### I'm a motivated QA Engineer and open to exploring this profession deeply. I have a frontend educational background, know methodologies and principles of testing, and have an understanding of client-server architecture. I’m also familiar with basic SQL knowledge, allowing me to write simple queries. I consider myself a progressive, hard-working, and team-oriented person. I can focus on the task and structure my work schedule. I’m open to new challenges, looking for opportunities to learn new technologies and improve my skills
+#### I consider myself a progressive, hard-working, and team-oriented person. Also open to new challenges, looking for opportunities to learn new technologies and improve my skills. I've 1.5 years of commercial experience more than 100 improving web pages and applications. Excellent time management, multitasking skills, and a confident ability to prioritize tasks and meet established deadlines.
+
+I've good knowledge of testing principles, methods, and test design techniques, a deep understanding of SDLC/STLC and testing processes, test documentation development principles and methods.
+Experience using API testing tool (e.g. Postman), tools for working with test documentation (TestRail, Confluence), and issue-tracking tools (e.g. JIRA, Trello, Notion).
+I understand SQL and have practical experience using RDBMS.
+Experience with JSON, XML, Web Services/REST, SQL.
+I know basic Linux commands.
+I've experience writing web applications using HTML/CSS/JavaScript/React.
+Experience working with the CI/CD system (GIT).
+Wrote and implemented a parser that allows you to analyze the code in a short time, select areas by tags and check the correctness of the filling.
 
 ## [**My CV**](https://drive.google.com/file/d/1Wc48DnYJds0-T-bcyu95eRirDhq-ngXZ/view?usp=sharing) :scroll:
 
