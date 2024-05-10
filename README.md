@@ -2,7 +2,7 @@
 
 #### I'm a motivated QA Engineer and open to exploring this profession deeply. I have a frontend educational background, know methodologies and principles of testing, and have an understanding of client-server architecture. I’m also familiar with basic SQL knowledge, allowing me to write simple queries. I consider myself a progressive, hard-working, and team-oriented person. I can focus on the task and structure my work schedule. I’m open to new challenges, looking for opportunities to learn new technologies and improve my skills
 
-## [**My CV**](https://drive.google.com/file/d/10PwinZ4hk-EdJ1F4naP-VhAVSmZ8GRR9/view?usp=sharing) :scroll:
+## [**My CV**](https://drive.google.com/file/d/1Wc48DnYJds0-T-bcyu95eRirDhq-ngXZ/view?usp=sharing) :scroll:
 
 ### Work Experience :gear:
 
