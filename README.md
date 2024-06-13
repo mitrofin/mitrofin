@@ -1,6 +1,6 @@
 [![Header](<https://github.com/mitrofin/mitrofin/blob/main/assets/%D0%B0%D0%B2%D0%B0%D1%82%D0%B0%D1%802%20(1).jpg>)](https://github.com/mitrofin)
 
-#### I consider myself a progressive, hard-working, and team-oriented person. Also open to new challenges, looking for opportunities to learn new technologies and improve my skills. I've 1.5 years of commercial experience more than 100 improving web pages and applications. Excellent time management, multitasking skills, and a confident ability to prioritize tasks and meet established deadlines.
+#### I've 1.5 years of commercial experience more than 100 improving web pages and applications. Excellent time management, multitasking skills, and a confident ability to prioritize tasks and meet established deadlines.
 
 I've good knowledge of testing principles, methods, and test design techniques, a deep understanding of SDLC/STLC and testing processes, test documentation development principles and methods.
 Experience using API testing tool (e.g. Postman), tools for working with test documentation (TestRail, Confluence), and issue-tracking tools (e.g. JIRA, Trello, Notion).
