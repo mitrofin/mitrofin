@@ -1,15 +1,6 @@
 [![Header](<https://github.com/mitrofin/mitrofin/blob/main/assets/%D0%B0%D0%B2%D0%B0%D1%82%D0%B0%D1%802%20(1).jpg>)](https://github.com/mitrofin)
 
-#### I've 1.5 years of commercial experience more than 100 improving web pages and applications. Excellent time management, multitasking skills, and a confident ability to prioritize tasks and meet established deadlines.
-
-I've good knowledge of testing principles, methods, and test design techniques, a deep understanding of SDLC/STLC and testing processes, test documentation development principles and methods.
-Experience using API testing tool (e.g. Postman), tools for working with test documentation (TestRail, Confluence), and issue-tracking tools (e.g. JIRA, Trello, Notion).
-I understand SQL and have practical experience using RDBMS.
-Experience with JSON, XML, Web Services/REST, SQL.
-I know basic Linux commands.
-I've experience writing web applications using HTML/CSS/JavaScript/React.
-Experience working with the CI/CD system (GIT).
-Wrote and implemented a parser that allows you to analyze the code in a short time, select areas by tags and check the correctness of the filling.
+#### I've 1.5 years of commercial experience more than 100 improving web pages and applications. Excellent time management, multitasking skills, and a confident ability to prioritize tasks and meet established deadlines. I've good knowledge of testing principles, methods, and test design techniques, a deep understanding of SDLC/STLC and testing processes, test documentation development principles and methods. Experience using API testing tool (e.g. Postman), tools for working with test documentation (TestRail, Confluence), and issue-tracking tools (e.g. JIRA, Trello, Notion). I understand SQL and have practical experience using RDBMS. Experience with JSON, XML, Web Services/REST, SQL. I know basic Linux commands. I've experience writing web applications using HTML/CSS/JavaScript/React. Experience working with the CI/CD system (GIT). Wrote and implemented a parser that allows you to analyze the code in a short time, select areas by tags and check the correctness of the filling.
 
 ## [**My CV**](https://drive.google.com/file/d/1Wc48DnYJds0-T-bcyu95eRirDhq-ngXZ/view?usp=sharing) :scroll:
 
@@ -17,17 +8,27 @@ Wrote and implemented a parser that allows you to analyze the code in a short ti
 
 ### _Quality assurance engineer_ **\_\_\_\_**"SoftRyzen"
 
-- _Testing at all stages of product development. Requirements testing, design testing, API testing, GUI, functional, usability, performance, interoperability, security, accessibility, configuration, regression testing_;
+- _Testing at all stages of product development. Requirements testing,
+  design testing, API testing, GUI, functional, usability, performance,
+  interoperability, security, accessibility, configuration, and regression
+  testing. Тimely testing, especially in the early stages, reduced
+  development time by 10-15%_;
 
-- _Creation of test documentation_;
+- _Creation of test documentation. A large number of checklists were
+  created and more than 1000 bug reports were opened_;
 
-- _Verification of integration with the CRM system(ZOHO)_;
+- _Collaborated with management and development/design teams to
+  prevent failures at various stages of development, resulting in improved
+  product quality and a 50% reduction in customer complaints_;
 
-- _Collaborating with management and dev/design teams to prevent failures in the early stages of development to increase the quality of the product_;
+- _Worked with 2 relational databases (SQLite, PostgreSQL) mainly (select,
+  update, delete) and remote device management_;
 
-- _Conducting interviews with candidates, сreation of a test web application, verification of test documentation_;
+- _Tested the API (Postman, Swagger), and sent more than 1000 requests
+  with basic HTTP methods_;
 
-- _Experience with relational databases and remote device management_;
+- _Conducting interviews with interns (more than 10), creating test web
+  applications (3), and checking test documentation_;
 
 ---
 
